@@ -1,0 +1,6 @@
+{
+  "name": "ET CETRA",
+  "description": "Client portal for ET CETRA ADVOCATES COMPANY LIMITED. Manage legal requests, matters, consultations, documents, payments, invoices, and communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
